@@ -72,273 +72,273 @@ include "./includes/nav-bar.php";
               <li class="page-item"><a class="page-link focus-red" href="#">4</a></li>
               <li class="page-item"><a class="page-link focus-red" href="#">5</a></li>
               <li class="page-item"><a class="page-link focus-red" href="#">6</a></li>
-              
+
             </ul>
           </nav>
 
         </div>
       </div>
     </div>
-<hr class="mt-3">
+    <hr class="mt-3">
 
-<div class="row g-3">
+    <div class="row g-3">
 
-<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-<div class="card text-center bg-light">
-    <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
-  <img src="./img/produtos/Jaqueta-roxa.webp" class="card-img-top">
-  
-  <div class="card-header">
-    R$300,00
-  </div>
+      <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <div class="card text-center bg-light">
+          <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
+          <img src="./img/produtos/Jaqueta-roxa.webp" class="card-img-top">
 
-  <div class="card-body">
-    <h5 class="card-title">Jaqueta</h5>
-    <p class="card-text truncar-3l">Corta-vento roxo e Preto, lista preta no meio, modelo 22/23.</p>
-   
-  </div>
-  <div class="card-footer">
-  <a href="./pages/carrinho.php" class="btn mt-2 d-block text-white" style="background-color:#A60303;">Adicionar ao carrinho</a>
-  <small class="text-success">22 unidades em estoque</small>
-  </div>
-</div>
-</div>
+          <div class="card-header">
+            R$300,00
+          </div>
 
-<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-<div class="card text-center bg-light">
-    <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
-  <img src="./img/produtos/jaqueta-roxo.webp" class="card-img-top">
-  
-  <div class="card-header">
-    R$350,00
-  </div>
+          <div class="card-body">
+            <h5 class="card-title">Jaqueta</h5>
+            <p class="card-text truncar-3l">Corta-vento roxo e Preto, lista preta no meio, modelo 22/23.</p>
 
-  <div class="card-body">
-    <h5 class="card-title">Jaqueta</h5>
-    <p class="card-text truncar-3l"> Corta-vento roxo e Preto, estilo V preto, modelo 22/23.</p>
-   
-  </div>
-  <div class="card-footer">
-  <a href="./pages/carrinho.php" class="btn mt-2 d-block text-white" style="background-color:#A60303;">Adicionar ao carrinho</a>
-  <small class="text-success">11 unidades em estoque</small>
-  </div>
-</div>
-</div>
+          </div>
+          <div class="card-footer">
+            <a href="carrinho.php" class="btn mt-2 d-block text-white" style="background-color:#A60303;">Adicionar ao carrinho</a>
+            <small class="text-success">22 unidades em estoque</small>
+          </div>
+        </div>
+      </div>
 
-<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-<div class="card text-center bg-light">
-    <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
-  <img src="./img/produtos/Jaqueta-branca.webp" class="card-img-top">
-  
-  <div class="card-header">
-    R$200,00
-  </div>
+      <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <div class="card text-center bg-light">
+          <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
+          <img src="./img/produtos/jaqueta-roxo.webp" class="card-img-top">
 
-  <div class="card-body">
-    <h5 class="card-title">Jaqueta</h5>
-    <p class="card-text truncar-3l">Corta-vento branca e Preto, lista preta na manga, modelo 21/22.</p>
-   
-  </div>
-  <div class="card-footer">
-  <a href="#" class="btn btn-light disabled mt-4 d-block"><small>Reabastecendo estoque</small></a>
-  <small class="text-danger"><b>Produto esgotado</b></small>
-  </div>
-</div>
-</div>
+          <div class="card-header">
+            R$350,00
+          </div>
 
-<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-<div class="card text-center bg-light">
-    <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart-fill" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
-  <img src="./img/produtos/jaqueta.webp" class="card-img-top">
-  
-  <div class="card-header">
-    R$400,00
-  </div>
+          <div class="card-body">
+            <h5 class="card-title">Jaqueta</h5>
+            <p class="card-text truncar-3l"> Corta-vento roxo e Preto, estilo V preto, modelo 22/23.</p>
 
-  <div class="card-body">
-    <h5 class="card-title">Jaqueta</h5>
-    <p class="card-text truncar-3l">Corta-vento preto e cinza, modelo 21/22.</p>
-   
-  </div>
-  <div class="card-footer">
-  <a href="./pages/carrinho.php" class="btn mt-2 d-block text-white" style="background-color:#A60303;">Adicionar ao carrinho</a>
-  <small class="text-success">15 unidades em estoque</small>
-  </div>
-</div>
-</div>
+          </div>
+          <div class="card-footer">
+            <a href="carrinho.php" class="btn mt-2 d-block text-white" style="background-color:#A60303;">Adicionar ao carrinho</a>
+            <small class="text-success">11 unidades em estoque</small>
+          </div>
+        </div>
+      </div>
 
-<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-<div class="card text-center bg-light">
-    <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
-  <img src="./img/produtos/camisas-II-21.webp" class="card-img-top">
-  
-  <div class="card-header">
-    R$100,00
-  </div>
+      <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <div class="card text-center bg-light">
+          <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
+          <img src="./img/produtos/Jaqueta-branca.webp" class="card-img-top">
 
-  <div class="card-body">
-    <h5 class="card-title">Camisa Listras</h5>
-    <p class="card-text truncar-3l">Listrada Preta e branca de manga, modelo 21.</p>
-   
-  </div>
-  <div class="card-footer">
-  <a href="./pages/carrinho.php" class="btn mt-2 d-block text-white" style="background-color:#A60303;">Adicionar ao carrinho</a>
-  <small class="text-success">34 unidades em estoque</small>
-  </div>
-</div>
-</div>
+          <div class="card-header">
+            R$200,00
+          </div>
 
-<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-<div class="card text-center bg-light">
-    <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
-  <img src="./img/produtos/camisa-saojorge.jpg" class="card-img-top">
-  
-  <div class="card-header">
-    R$150,00
-  </div>
+          <div class="card-body">
+            <h5 class="card-title">Jaqueta</h5>
+            <p class="card-text truncar-3l">Corta-vento branca e Preto, lista preta na manga, modelo 21/22.</p>
 
-  <div class="card-body">
-    <h5 class="card-title">Camisa SJ</h5>
-    <p class="card-text truncar-3l"> Camisa Sao Jorge simples de manga, Branca, modelo 22/23.</p>
-   
-  </div>
-  <div class="card-footer">
-  <a href="#" class="btn btn-light disabled mt-4 d-block"><small>Reabastecendo estoque</small></a>
-  <small class="text-danger"><b>Produto esgotado</b></small>
-  </div>
-</div>
-</div>
+          </div>
+          <div class="card-footer">
+            <a href="#" class="btn btn-light disabled mt-4 d-block"><small>Reabastecendo estoque</small></a>
+            <small class="text-danger"><b>Produto esgotado</b></small>
+          </div>
+        </div>
+      </div>
 
-<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-<div class="card text-center bg-light">
-    <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
-  <img src="./img/produtos/camisa-saint.jpg" class="card-img-top">
-  
-  <div class="card-header">
-    R$250,00
-  </div>
+      <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <div class="card text-center bg-light">
+          <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart-fill" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
+          <img src="./img/produtos/jaqueta.webp" class="card-img-top">
 
-  <div class="card-body">
-    <h5 class="card-title">Camisa SJ</h5>
-    <p class="card-text truncar-3l">São Jorge, Vermelha, Saint, modelo 22/23.</p>
-   
-  </div>
-  <div class="card-footer">
-  <a href="./pages/carrinho.php" class="btn mt-2 d-block text-white" style="background-color:#A60303;">Adicionar ao carrinho</a>
-  <small class="text-success">6 unidades em estoque</small>
-  </div>
-</div>
-</div>
+          <div class="card-header">
+            R$400,00
+          </div>
 
-<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-<div class="card text-center bg-light">
-    <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart-fill" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
-  <img src="./img/produtos/camisa-prejogo.webp" class="card-img-top">
-  
-  <div class="card-header">
-    R$350,00
-  </div>
+          <div class="card-body">
+            <h5 class="card-title">Jaqueta</h5>
+            <p class="card-text truncar-3l">Corta-vento preto e cinza, modelo 21/22.</p>
 
-  <div class="card-body">
-    <h5 class="card-title">Camisa PJ</h5>
-    <p class="card-text truncar-3l">Pré-Jogo, Branca e Preto, modelo 22/23.</p>
-   
-  </div>
-  <div class="card-footer">
-  <a href="./pages/carrinho.php" class="btn mt-2 d-block text-white" style="background-color:#A60303;">Adicionar ao carrinho</a>
-  <small class="text-success">7 unidades em estoque</small>
-  </div>
-</div>
-</div>
+          </div>
+          <div class="card-footer">
+            <a href="carrinho.php" class="btn mt-2 d-block text-white" style="background-color:#A60303;">Adicionar ao carrinho</a>
+            <small class="text-success">15 unidades em estoque</small>
+          </div>
+        </div>
+      </div>
 
-<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-<div class="card text-center bg-light">
-    <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart-fill" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
-  <img src="./img/produtos/camisa-branca.jpeg" class="card-img-top">
-  
-  <div class="card-header">
-    R$150,00
-  </div>
+      <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <div class="card text-center bg-light">
+          <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
+          <img src="./img/produtos/camisas-II-21.webp" class="card-img-top">
 
-  <div class="card-body">
-    <h5 class="card-title">Camisa Branca</h5>
-    <p class="card-text truncar-3l">Camisa simples branca de manga, modelo 21/22.</p>
-   
-  </div>
-  <div class="card-footer">
-  <a href="./pages/carrinho.php" class="btn mt-2 d-block text-white" style="background-color:#A60303;">Adicionar ao carrinho</a>
-  <small class="text-success">30 unidades em estoque</small>
-  </div>
-</div>
-</div>
+          <div class="card-header">
+            R$100,00
+          </div>
 
-<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-<div class="card text-center bg-light">
-    <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart-fill" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
-  <img src="./img/produtos/camisa-2324.jpg" class="card-img-top">
-  
-  <div class="card-header">
-    R$450,00
-  </div>
+          <div class="card-body">
+            <h5 class="card-title">Camisa Listras</h5>
+            <p class="card-text truncar-3l">Listrada Preta e branca de manga, modelo 21.</p>
 
-  <div class="card-body">
-    <h5 class="card-title">Camisa SCCP</h5>
-    <p class="card-text truncar-3l">Preta e dourada de manga, modelo 23/24.</p>
-   
-  </div>
-  <div class="card-footer">
-  <a href="./pages/carrinho.php" class="btn mt-2 d-block text-white" style="background-color:#A60303;">Adicionar ao carrinho</a>
-  <small class="text-success">25 unidades em estoque</small>
-  </div>
-</div>
-</div>
+          </div>
+          <div class="card-footer">
+            <a href="carrinho.php" class="btn mt-2 d-block text-white" style="background-color:#A60303;">Adicionar ao carrinho</a>
+            <small class="text-success">34 unidades em estoque</small>
+          </div>
+        </div>
+      </div>
 
-<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-<div class="card text-center bg-light">
-    <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
-  <img src="./img/produtos/kit-bone-camisa.webp" class="card-img-top">
-  
-  <div class="card-header">
-    R$500,00
-  </div>
+      <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <div class="card text-center bg-light">
+          <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
+          <img src="./img/produtos/camisa-saojorge.jpg" class="card-img-top">
 
-  <div class="card-body">
-    <h5 class="card-title">Camisa e boné</h5>
-    <p class="card-text truncar-3l">Kit camisa e boné, branco e Preto, modelo 22/23.</p>
-   
-  </div>
-  <div class="card-footer">
-  <a href="./pages/carrinho.php" class="btn mt-2 d-block text-white" style="background-color:#A60303;">Adicionar ao carrinho</a>
-  <small class="text-success">8 unidades em estoque</small>
-  </div>
-</div>
-</div>
+          <div class="card-header">
+            R$150,00
+          </div>
 
-<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-<div class="card text-center bg-light">
-    <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
-  <img src="./img/produtos/camisa-kit.webp" class="card-img-top">
-  
-  <div class="card-header">
-    R$600,00
-  </div>
+          <div class="card-body">
+            <h5 class="card-title">Camisa SJ</h5>
+            <p class="card-text truncar-3l"> Camisa Sao Jorge simples de manga, Branca, modelo 22/23.</p>
 
-  <div class="card-body">
-    <h5 class="card-title">Camisas</h5>
-    <p class="card-text truncar-3l">Kit com duas camisas: 1ª camisa: branca, 2ª camisa: Preta com listras brancas, modelo 22/23.</p>
-   
-  </div>
-  <div class="card-footer">
-  <a href="./pages/carrinho.php" class="btn mt-2 d-block text-white" style="background-color:#A60303;">Adicionar ao carrinho</a>
-  <small class="text-success">10 unidades em estoque</small>
-  </div>
-</div>
-</div>
+          </div>
+          <div class="card-footer">
+            <a href="#" class="btn btn-light disabled mt-4 d-block"><small>Reabastecendo estoque</small></a>
+            <small class="text-danger"><b>Produto esgotado</b></small>
+          </div>
+        </div>
+      </div>
 
-  </div>
+      <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <div class="card text-center bg-light">
+          <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
+          <img src="./img/produtos/camisa-saint.jpg" class="card-img-top">
 
-<hr class="mt-3">
-<div class="row pb-3">
+          <div class="card-header">
+            R$250,00
+          </div>
+
+          <div class="card-body">
+            <h5 class="card-title">Camisa SJ</h5>
+            <p class="card-text truncar-3l">São Jorge, Vermelha, Saint, modelo 22/23.</p>
+
+          </div>
+          <div class="card-footer">
+            <a href="carrinho.php" class="btn mt-2 d-block text-white" style="background-color:#A60303;">Adicionar ao carrinho</a>
+            <small class="text-success">6 unidades em estoque</small>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <div class="card text-center bg-light">
+          <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart-fill" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
+          <img src="./img/produtos/camisa-prejogo.webp" class="card-img-top">
+
+          <div class="card-header">
+            R$350,00
+          </div>
+
+          <div class="card-body">
+            <h5 class="card-title">Camisa PJ</h5>
+            <p class="card-text truncar-3l">Pré-Jogo, Branca e Preto, modelo 22/23.</p>
+
+          </div>
+          <div class="card-footer">
+            <a href="carrinho.php" class="btn mt-2 d-block text-white" style="background-color:#A60303;">Adicionar ao carrinho</a>
+            <small class="text-success">7 unidades em estoque</small>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <div class="card text-center bg-light">
+          <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart-fill" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
+          <img src="./img/produtos/camisa-branca.jpeg" class="card-img-top">
+
+          <div class="card-header">
+            R$150,00
+          </div>
+
+          <div class="card-body">
+            <h5 class="card-title">Camisa Branca</h5>
+            <p class="card-text truncar-3l">Camisa simples branca de manga, modelo 21/22.</p>
+
+          </div>
+          <div class="card-footer">
+            <a href="carrinho.php" class="btn mt-2 d-block text-white" style="background-color:#A60303;">Adicionar ao carrinho</a>
+            <small class="text-success">30 unidades em estoque</small>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <div class="card text-center bg-light">
+          <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart-fill" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
+          <img src="./img/produtos/camisa-2324.jpg" class="card-img-top">
+
+          <div class="card-header">
+            R$450,00
+          </div>
+
+          <div class="card-body">
+            <h5 class="card-title">Camisa SCCP</h5>
+            <p class="card-text truncar-3l">Preta e dourada de manga, modelo 23/24.</p>
+
+          </div>
+          <div class="card-footer">
+            <a href="carrinho.php" class="btn mt-2 d-block text-white" style="background-color:#A60303;">Adicionar ao carrinho</a>
+            <small class="text-success">25 unidades em estoque</small>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <div class="card text-center bg-light">
+          <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
+          <img src="./img/produtos/kit-bone-camisa.webp" class="card-img-top">
+
+          <div class="card-header">
+            R$500,00
+          </div>
+
+          <div class="card-body">
+            <h5 class="card-title">Camisa e boné</h5>
+            <p class="card-text truncar-3l">Kit camisa e boné, branco e Preto, modelo 22/23.</p>
+
+          </div>
+          <div class="card-footer">
+            <a href="carrinho.php" class="btn mt-2 d-block text-white" style="background-color:#A60303;">Adicionar ao carrinho</a>
+            <small class="text-success">8 unidades em estoque</small>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <div class="card text-center bg-light">
+          <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
+          <img src="./img/produtos/camisa-kit.webp" class="card-img-top">
+
+          <div class="card-header">
+            R$600,00
+          </div>
+
+          <div class="card-body">
+            <h5 class="card-title">Camisas</h5>
+            <p class="card-text truncar-3l">Kit com duas camisas: 1ª camisa: branca, 2ª camisa: Preta com listras brancas, modelo 22/23.</p>
+
+          </div>
+          <div class="card-footer">
+            <a href="carrinho.php" class="btn mt-2 d-block text-white" style="background-color:#A60303;">Adicionar ao carrinho</a>
+            <small class="text-success">10 unidades em estoque</small>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <hr class="mt-3">
+    <div class="row pb-3">
       <div class="col-12">
         <div class="d-flex flex-row-reverse justify-content-center justify-content-md-start">
 
@@ -358,14 +358,14 @@ include "./includes/nav-bar.php";
               <li class="page-item"><a class="page-link focus-red" href="#">4</a></li>
               <li class="page-item"><a class="page-link focus-red" href="#">5</a></li>
               <li class="page-item"><a class="page-link focus-red" href="#">6</a></li>
-              
+
             </ul>
           </nav>
 
         </div>
       </div>
     </div>
-    </div>
+  </div>
   </div>
 </main>
 
@@ -373,4 +373,4 @@ include "./includes/nav-bar.php";
 
 <?php
 include "./includes/footer.php"
-  ?>
+?>
