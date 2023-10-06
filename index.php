@@ -85,10 +85,10 @@ include "./includes/nav-bar.php";
 
       <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
         <div class="card text-center bg-light">
-          <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
+          <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart-fill" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
           <img src="./img/produtos/Jaqueta-roxa.webp" class="card-img-top">
 
-          <div class="card-header">
+          <div class="card-header  bg-dark text-light">
             R$300,00
           </div>
 
@@ -106,10 +106,10 @@ include "./includes/nav-bar.php";
 
       <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
         <div class="card text-center bg-light">
-          <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
+          <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart-fill" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
           <img src="./img/produtos/jaqueta-roxo.webp" class="card-img-top">
 
-          <div class="card-header">
+          <div class="card-header  bg-dark text-light">
             R$350,00
           </div>
 
@@ -130,7 +130,7 @@ include "./includes/nav-bar.php";
           <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
           <img src="./img/produtos/Jaqueta-branca.webp" class="card-img-top">
 
-          <div class="card-header">
+          <div class="card-header  bg-dark text-light">
             R$200,00
           </div>
 
@@ -151,7 +151,7 @@ include "./includes/nav-bar.php";
           <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart-fill" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
           <img src="./img/produtos/jaqueta.webp" class="card-img-top">
 
-          <div class="card-header">
+          <div class="card-header  bg-dark text-light">
             R$400,00
           </div>
 
@@ -172,7 +172,7 @@ include "./includes/nav-bar.php";
           <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
           <img src="./img/produtos/camisas-II-21.webp" class="card-img-top">
 
-          <div class="card-header">
+          <div class="card-header  bg-dark text-light">
             R$100,00
           </div>
 
@@ -190,10 +190,10 @@ include "./includes/nav-bar.php";
 
       <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
         <div class="card text-center bg-light">
-          <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
+          <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart-fill" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
           <img src="./img/produtos/camisa-saojorge.jpg" class="card-img-top">
 
-          <div class="card-header">
+          <div class="card-header  bg-dark text-light">
             R$150,00
           </div>
 
@@ -214,7 +214,7 @@ include "./includes/nav-bar.php";
           <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
           <img src="./img/produtos/camisa-saint.jpg" class="card-img-top">
 
-          <div class="card-header">
+          <div class="card-header  bg-dark text-light">
             R$250,00
           </div>
 
@@ -235,7 +235,7 @@ include "./includes/nav-bar.php";
           <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart-fill" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
           <img src="./img/produtos/camisa-prejogo.webp" class="card-img-top">
 
-          <div class="card-header">
+          <div class="card-header  bg-dark text-light">
             R$350,00
           </div>
 
@@ -256,7 +256,7 @@ include "./includes/nav-bar.php";
           <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart-fill" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
           <img src="./img/produtos/camisa-branca.jpeg" class="card-img-top">
 
-          <div class="card-header">
+          <div class="card-header  bg-dark text-light">
             R$150,00
           </div>
 
@@ -277,7 +277,7 @@ include "./includes/nav-bar.php";
           <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart-fill" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
           <img src="./img/produtos/camisa-2324.jpg" class="card-img-top">
 
-          <div class="card-header">
+          <div class="card-header  bg-dark text-light">
             R$450,00
           </div>
 
@@ -295,10 +295,10 @@ include "./includes/nav-bar.php";
 
       <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
         <div class="card text-center bg-light">
-          <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
+          <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart-fill" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
           <img src="./img/produtos/kit-bone-camisa.webp" class="card-img-top">
 
-          <div class="card-header">
+          <div class="card-header  bg-dark text-light">
             R$500,00
           </div>
 
@@ -319,7 +319,7 @@ include "./includes/nav-bar.php";
           <a href="#" class="position-absolute end-0 p-2"><i class="bi-suit-heart" style="color:#A60303; font-size:24px; line-height: 24px;"></i></a>
           <img src="./img/produtos/camisa-kit.webp" class="card-img-top">
 
-          <div class="card-header">
+          <div class="card-header  bg-dark text-light">
             R$600,00
           </div>
 

@@ -25,7 +25,7 @@ include "./includes/nav-bar.php";
     </div>
     
 
-    <button type="button" onclick="window.location.href='./cliente_pedidos.php'" class="btn btn-md  text-white" style="background-color:#A60303;">Entrar</button>
+    <button type="button" onclick="window.location.href='./cliente_dados.php'" class="btn btn-md  text-white" style="background-color:#A60303;">Entrar</button>
 
         <p class="mt-3">
         Ainda não é cadastrado? <a href="./cadastro.php">Clique aqui</a>
